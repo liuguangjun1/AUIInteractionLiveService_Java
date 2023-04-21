@@ -28,7 +28,7 @@
 
 # 代码 & 预览
 
-- [源代码](https://github.com/aliyunvideo/JAVAAUIInteractionLiveService)
+- [源代码](https://github.com/aliyunvideo/AUIInteractionLiveService_Java/tree/main/code)
 
 </codepre>
 
